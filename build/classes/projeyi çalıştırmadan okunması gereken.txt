@@ -1,0 +1,6 @@
+
+oyun oyun.java classında run edilmelidir.
+
+-kelimeler.txt dosyasında kelimeler arası bir boşluk olmalı ve her bölüm yeni satıra yazılmalıdır(mesela şuan 6 kelime var her bölümün 6 kelimesi olması
+lazım yoksa hata verir)
+-bölüm başındaki kelime 6 harflik kelime olmalıdır çünkü başlangıç olarak ilk kelimeyi referans alıp yuvarlak düğmeleri oluşturuyor.
